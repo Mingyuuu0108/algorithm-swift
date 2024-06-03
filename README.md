@@ -1,4 +1,4 @@
-## Baekjoon online judge
+## Baekjoon Online Judge
 
 Multiple programming languages
 
